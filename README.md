@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-name: generate animation
-
-
-      name: generate github-contribution-grid-snake.svg
-        uses: 9elmaz9/snk/svg-only@v3
-        with:
-          github_user_name: ${{ 9elmaz9}}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+[about:blank](https://platane.github.io/snk/)https://platane.github.io/snk/
