@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 name: generate animation
 
- # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+
+      name: generate github-contribution-grid-snake.svg
+        uses: 9elmaz9/snk/svg-only@v3
         with:
           github_user_name: ${{ 9elmaz9}}
           outputs: |
