@@ -27,4 +27,7 @@ Happy coding! 🚀
 <h3 align="center">Computer science student, IT news writer from  </h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true&theme=radical)
