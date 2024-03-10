@@ -22,6 +22,6 @@ Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!
 Happy coding! 🚀
 
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from  🇷🇺</h3>
+<h3 align="center">Computer science student, IT news writer from  </h3>
