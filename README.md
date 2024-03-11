@@ -72,3 +72,15 @@ Happy coding! 🚀
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9)  
 
+
+
+
+
+name: Full-year calendar
+uses: 9elmaz9/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
