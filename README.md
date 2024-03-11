@@ -77,14 +77,21 @@ Happy coding! 🚀
 
 
 
+-name: Full-year calendar
+-uses: 9elmaz9/metrics@latest
+-with:
+  -filename: metrics.plugin.isocalendar.fullyear.svg
+-  token: ${{ secrets.METRICS_TOKEN }}
+ - base: ""
+ - plugin_isocalendar: yes
+ - plugin_isocalendar_duration: full-year
 
 
-
-  name: Example
-uses: 9elmaz9/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+-  name: Example
+-uses: 9elmaz9/metrics@latest
+-with:
+ - filename: metrics.classic.svg
+-  token: ${{ secrets.METRICS_TOKEN }}
+  -base: header, repositories
+  -plugin_lines: yes
 
