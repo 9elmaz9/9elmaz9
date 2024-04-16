@@ -33,7 +33,7 @@ Happy coding! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true)
 
-<!--
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true&theme=radical)
 
@@ -68,7 +68,7 @@ Happy coding! 🚀
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=9elmaz9&layout=compact&langs_count=8&card_width=320" />
 </a>
 
--->
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/9elmaz9)  
