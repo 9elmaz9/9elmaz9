@@ -19,6 +19,7 @@ My music page is available at [edzhelia.github.io](https://edzhelia.github.io/).
 
 
 
+My music page is available at [edzhelia.github.io](https://edzhelia.github.io/edzhelia.html).
 
 
 
