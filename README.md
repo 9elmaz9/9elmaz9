@@ -1,7 +1,8 @@
 ### Hi there 👋
+#  I'm Elmaz!
+Passionate | Creative | Curious |
 
-
-
+Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!
 
 <!-- Название вашей страницы GitHub Pages -->
 [//]: # (Page URL)
@@ -70,12 +71,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Elmaz!
-Passionate | Creative | Curious |
-
-Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!
-
-Happy coding! 🚀
 
 
 
