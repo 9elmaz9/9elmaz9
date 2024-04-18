@@ -24,18 +24,6 @@ My music page is available on [GitHub Pages](https://[9elmaz9.github.io/edzhelia
 
 
 
-My music page is available at [edzhelia.github.io](https://edzhelia.github.io/).
-
-My music page is available at [edzhelia.github.io](https://edzhelia.github.io/).
-
-
-
-
-
-
-
-My music page is available at [edzhelia.github.io](https://edzhelia.github.io/edzhelia.html).
-
 
 
 
