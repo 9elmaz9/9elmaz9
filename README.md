@@ -8,6 +8,7 @@
 
 
 
+My music page is available on [GitHub Pages](https://9elmaz9.github.io/edzhelia.github.io/).
 
 
 
@@ -33,7 +34,6 @@
 
 <audio controls autoplay>
   <source src="https://www.youtube.com/embed/xw6BPt9f1eU" type="audio/mp3">
-  Your browser does not support the audio element.
 </audio>
 
 
