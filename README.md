@@ -35,7 +35,7 @@ My music page is available at [9elmaz9.github.io/edzhelia.github.io](https://9el
 
 
 <!-- tolko kartinky vidno -->
-[![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_)
+<!-- [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_)  -->
 
 <audio controls autoplay>
   <source src="https://www.youtube.com/embed/xw6BPt9f1eU" type="audio/mp3">
