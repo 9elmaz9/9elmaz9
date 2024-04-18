@@ -7,7 +7,10 @@
 [//]: # (Page URL)
 [page-url]: https://9elmaz9.github.io/
 
-Моя страница с музыкой доступна на [GitHub Pages](https://9elmaz9.github.io/).
+My music page is available at [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).
+
+My music page is available at [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).
+
 
 
 <!-- VARIANT 1 -->
