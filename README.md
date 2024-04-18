@@ -17,7 +17,7 @@ Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!
 
 
 <!-- VARIANT 1 -->
-### click me
+
 
 [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_)
 
