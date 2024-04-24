@@ -1,5 +1,10 @@
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">elmaz</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student </h3>
+
+<!--
 ### Hi there 👋
-#  I'm Elmaz!
+#  I'm Elmaz! -->
 Passionate | Creative | Curious |
 
 Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!
@@ -82,9 +87,7 @@ Here are some ideas to get you started:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">elmaz</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student </h3>
+
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true)
@@ -125,9 +128,9 @@ Here are some ideas to get you started:
 </a>
 
 
+<!--
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/9elmaz9)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/9elmaz9)   -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9)  
 
