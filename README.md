@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student </h3>
 
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true)
 
 
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9)](https://github.com/anuraghazra/github-readme-stats)  -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)
 
