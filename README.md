@@ -18,7 +18,7 @@ Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding! --
 
 <!--My music page is available at-->
 
-### click me [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).
+<!--### click me [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).  -->
 ### CLICK ME! [https://9elmaz9.github.io/DAD-JOKES/](https://9elmaz9.github.io/DAD-JOKES/).     
 
 
