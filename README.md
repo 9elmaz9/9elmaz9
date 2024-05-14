@@ -5,7 +5,7 @@
 <h3 align="center">Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!</h3>
 
 
-<!--
+
 ### Hi there 👋
 #  I'm Elmaz! 
 Passionate | Creative | Curious |
