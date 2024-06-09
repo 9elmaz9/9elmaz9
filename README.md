@@ -24,7 +24,7 @@ Passionate | Creative | Curious |
 <!--### my web  [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/elmaz_dzhelianchyk/).  -->
 
 ### CLICK ME! [https://9elmaz9.github.io/DAD-JOKES/](https://9elmaz9.github.io/DAD-JOKES/).  
-### ME! [https://9elmaz9.github.io/DAD-JOKES/](https://9elmaz9.github.io/elmaz_dzhelianchyk/).  
+### ME! [ELMAZ](https://9elmaz9.github.io/elmaz_dzhelianchyk/).  
 
 
 
