@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">elmaz</a> 
+<h1 align="center">Hi there, I'm <a href="https://https://github.com/9elmaz9?tab=repositories/" target="_blank">elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><!--
 <!--<h3 align="center">Computer science student </h3> -->
 <h3 align="center">| Passionate | Creative | Curious |</h3>
@@ -16,7 +16,7 @@ Passionate | Creative | Curious |
 
 <!-- Название вашей страницы GitHub Pages -->
 [//]: # (Page URL)
-[page-url]:https://github.com/9elmaz9?tab=repositories
+[page-url]: https://9elmaz9.github.io/
 <!--My music page is available at-->
 
 <!--### click me [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).  -->
