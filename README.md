@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://https://github.com/9elmaz9?tab=repositories/" target="_blank">elmaz</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><!--
 <!--<h3 align="center">Computer science student </h3> -->
 <h3 align="center">| Passionate | Creative | Curious |</h3>
