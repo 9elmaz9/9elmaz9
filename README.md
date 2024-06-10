@@ -23,7 +23,7 @@ Passionate | Creative | Curious |
 <!--### click me [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/).  -->
 <!--### my web  [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/elmaz_dzhelianchyk/).  -->
 
-### CLICK HERE! [you'll like it](https://9elmaz9.github.io/DAD-JOKES/).  
+### CLICK HERE! [you'll like it](https://9elmaz9.github.io/DAD-JOKES/)
 ###  [MY WEBSITE](https://9elmaz9.github.io/elmaz_dzhelianchyk/)
 
 
