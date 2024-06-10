@@ -8,7 +8,7 @@
 
 <!--
 
-### Hi there 👋
+### Hey guys 👋
 #  I'm Elmaz! 
 Passionate | Creative | Curious |
  
