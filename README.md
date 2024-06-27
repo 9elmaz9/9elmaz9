@@ -36,7 +36,7 @@ Passionate | Creative | Curious |
 
 
 [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_)
-[![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=q8fSRJUG3Bo&si=ND69GtXL0Gk5urrX)
+[![Music from YouTube](https://lh3.googleusercontent.com/tmWIksQ5Or0qcqxRs6vLKCDSP9AnQOn35wYK2XxDZQMY8HErb3WWcncd9H1THVNW5I3clhMLaHKHp5ueXQ=w544-h544-l90-rj)](https://music.youtube.com/watch?v=q8fSRJUG3Bo&si=ND69GtXL0Gk5urrX)
 
 
 <!-- My music page is available on [GitHub Pages](https://[9elmaz9.github.io/edzhelia.github.io/](https://9elmaz9.github.io/edzhelia.github.io/)).  -->
