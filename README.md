@@ -13,7 +13,7 @@
 Passionate | Creative | Curious |
  
 <!-- Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding! -->
-
+<!-- Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding! -->
 <!-- Название вашей страницы GitHub Pages -->
 [//]: # (Page URL)
 [page-url]: https://9elmaz9.github.io/
