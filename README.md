@@ -5,7 +5,7 @@
 <!-- <h3 align="center">Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding!</h3>  -->
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=[your-github-username](https://github.com/9elmaz9)&style=flat-square)
 
 <!--    ### Hey guys 👋
 
