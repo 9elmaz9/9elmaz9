@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=9elmaz9&color=blue)
 
+![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!--    ### Hey guys 👋
 
@@ -94,7 +95,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
