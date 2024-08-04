@@ -8,6 +8,9 @@
 
 ![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
+<!-- это марио 
+https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Gameplay.gif  -->
+
 <!--    ### Hey guys 👋
 
 
