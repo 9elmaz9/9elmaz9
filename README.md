@@ -9,7 +9,7 @@
 ![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <!-- это марио  -->
-https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Gameplay.gif 
+![MARIO](https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Gameplay.gif)
 
 <!--  this one mario too
 https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif   -->
