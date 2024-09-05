@@ -80,6 +80,8 @@ Passionate | Creative | Curious |
 <!--
 ### Music from YouTube
 
+[![Music from YouTube](https://music.youtube.com/playlist?list=OLAK5uy_lTw67gmhfKSpz1LGRHNUbNTbu4zGsv_Ho)
+
 [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xw6BPt9f1eU?autoplay=1" frameborder="0" allowfullscreen></iframe>
