@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 
 ### Hey guys 👋
 #  I'm Elmaz!!! 
-Passionate | Creative | Curious |
+Passionate | Creative | Curious | 
  
 <!-- Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding! -->
 <!-- Welcome to my coding sanctuary! I'm a tech enthusiast with a love for coding! -->
@@ -49,9 +49,11 @@ Passionate | Creative | Curious |
 
 <!-- [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_) 
 [![Music from YouTube](https://lh3.googleusercontent.com/tmWIksQ5Or0qcqxRs6vLKCDSP9AnQOn35wYK2XxDZQMY8HErb3WWcncd9H1THVNW5I3clhMLaHKHp5ueXQ=w544-h544-l90-rj)](https://music.youtube.com/watch?v=q8fSRJUG3Bo&si=ND69GtXL0Gk5urrX)-->
+
 [![Music from YouTube](https://lh3.googleusercontent.com/Z9VSForD16PulSUBfWCMmDHE3UaYySw4wKh7Da9wXTU54zFg43RjclHAqvAE1Lu8_fDAeSkMUrLTkdDm=w544-h544-l90-rj)](https://music.youtube.com/watch?v=4x8KpUyCnOw&si=Wmbhi0wXQLelx3lZ)
 
-
+<!--19,10-->
+[![Music from YouTube](https://lh3.googleusercontent.com/Z9VSForD16PulSUBfWCMmDHE3UaYySw4wKh7Da9wXTU54zFg43RjclHAqvAE1Lu8_fDAeSkMUrLTkdDm=w544-h544-l90-rj)](https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu) 
 
 <!-- My music page is available on [GitHub Pages](https://[9elmaz9.github.io/edzhelia.github.io/](https://9elmaz9.github.io/edzhelia.github.io/)).  -->
 
