@@ -35,6 +35,64 @@
 
 
 
+
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">Elmaz</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">| fun | serious | curious |</h3>
+
+<!-- GitHub Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
+</p>
+
+<!-- Dino Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
+</p>
+
+<!-- Button Links for Website and Dad Jokes -->
+<p align="center">
+  <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Check out Dad Jokes!</button>
+  </a>
+  <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
+  </a>
+</p>
+
+<!-- Music and GitHub Stats side by side -->
+<table align="center">
+  <tr>
+    <td>
+      <!-- Active YouTube music -->
+      <a href="https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu" target="_blank">
+        <img src="https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj" alt="Music from YouTube" width="300">
+      </a>
+    </td>
+    <td>
+      <!-- Top Langs -->
+      <a href="https://github.com/9elmaz9/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9) -->
 
 <!-- Inactive sections below -->
