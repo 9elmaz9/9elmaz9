@@ -14,11 +14,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9)
+
+<table>
+  <tr>
+    <td>
+      <!-- Active YouTube music -->
+      <a href="https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu">
+        <img src="https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj" alt="Music from YouTube" width="300">
+      </a>
+    </td>
+    <td>
+      <!-- Top Langs -->
+      <a href="https://github.com/9elmaz9/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
-
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9) -->
 
 <!-- Inactive sections below -->
 
