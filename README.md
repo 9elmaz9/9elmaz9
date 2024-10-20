@@ -8,7 +8,7 @@
 </div>
 
 <!-- Dino Image -->
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
 
@@ -51,10 +51,10 @@
   </tr>
 </table>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
-</p>
+</p> -->
 
 
 
@@ -78,8 +78,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)  -->
 
-
-////////////////////////////////////////////////////////////////////////////////////////// --> 
+<!-- ////////////////// -->
 
 
 
