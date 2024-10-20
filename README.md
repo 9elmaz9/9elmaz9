@@ -12,6 +12,21 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
 
+<!-- #30NitesOfCode Section -->
+<h2 align="center">#30NitesOfCode</h2>
+<p align="center">
+  Check out my progress!
+</p>
+<p align="center">
+  <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Pixel Art" width="300">
+</p>
+<p align="center">
+  <a href="https://www.codedex.io/@mazik/30-nites-of-code" target="_blank">
+    Check out my progress!
+  </a>
+</p>
+
+
 <!-- Button Links for Website and Dad Jokes with extra space between them -->
 <p align="center">
   <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
