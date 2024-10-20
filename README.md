@@ -72,8 +72,8 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)
 
-<!-- статистика полосы АКТИВНАЯ сейчас -->
-![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9)  
+<!-- статистика полосы АКТИВНАЯ сейчас
+![GitHub streak stats](https://streak-stats.demolab.com/?user=9elmaz9)    -->
 
 
 
@@ -109,10 +109,7 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 -->
 
 <!-- My music page is available at [9elmaz9.github.io/edzhelia.github.io](https://9elmaz9.github.io/edzhelia.github.io/). -->
-
 <!-- My music page is available on [GitHub Pages](https://[9elmaz9.github.io/edzhelia.github.io/](https://9elmaz9.github.io/edzhelia.github.io/)).  -->
-
-
 
 <!-- StopNOW   ### Hey guys 👋👋
 ### Hey guys 👋
