@@ -1,41 +1,3 @@
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">elmaz</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">| fun | serious | curious |</h3>
-
-![](https://komarev.com/ghpvc/?username=9elmaz9&color=blue)
-
-![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
-### CLICK HERE! [you'll like it](https://9elmaz9.github.io/DAD-JOKES/)
-###  [MY WEBSITE](https://9elmaz9.github.io/elmaz_dzhelianchyk/)
-
-<!-- Active YouTube music 
-[![Music from YouTube](https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj)](https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)  -->
-
-
-
-<table>
-  <tr>
-    <td>
-      <!-- Active YouTube music -->
-      <a href="https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu">
-        <img src="https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj" alt="Music from YouTube" width="300">
-      </a>
-    </td>
-    <td>
-      <!-- Top Langs -->
-      <a href="https://github.com/9elmaz9/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut" alt="Top Languages">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">Elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">| fun | serious | curious |</h3>
@@ -50,13 +12,13 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
 
-<!-- Button Links for Website and Dad Jokes -->
+<!-- Button Links for Website and Dad Jokes with extra space between them -->
 <p align="center">
   <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Check out Dad Jokes!</button>
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-right: 20px;">Check out Dad Jokes!</button>
   </a>
   <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
+    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer; margin-left: 20px;">Visit My Website</button>
   </a>
 </p>
 
@@ -83,6 +45,31 @@
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
 </p>
 
+
+
+
+
+
+
+<!-- /////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">elmaz</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">| fun | serious | curious |</h3>
+
+![](https://komarev.com/ghpvc/?username=9elmaz9&color=blue)
+
+![Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
+### CLICK HERE! [you'll like it](https://9elmaz9.github.io/DAD-JOKES/)
+###  [MY WEBSITE](https://9elmaz9.github.io/elmaz_dzhelianchyk/)
+
+<!-- Active YouTube music 
+[![Music from YouTube](https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj)](https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)  -->
+
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////// --> 
 
 
 
