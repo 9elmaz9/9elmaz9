@@ -2,15 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">| fun | serious | curious |</h3>
 
-<!-- GitHub Profile Views aligned to the right -->
-<div style="text-align: right;">
-  <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
-</div>
+ <!-- GitHub Profile Views aligned to the right -->
+  <span style="float: right;">
+    <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
+  </span>
+</h1>
 
-<!-- Dino Image -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
-</p>
+
 
 <!-- #30NitesOfCode Section -->
 <h2 align="center">#30NitesOfCode</h2>
@@ -56,6 +54,10 @@
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
 </p> -->
 
+<!-- Dino Image -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
+</p>
 
 
 
