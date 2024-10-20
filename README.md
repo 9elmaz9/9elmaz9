@@ -26,8 +26,6 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 
 
 <!-- VARIANT 1 -->
-
-
 <!-- [![Music from YouTube](https://img.youtube.com/vi/xw6BPt9f1eU/0.jpg)](https://music.youtube.com/watch?v=xw6BPt9f1eU&si=WB4jsDvlRJiDGge_) 
 [![Music from YouTube](https://lh3.googleusercontent.com/tmWIksQ5Or0qcqxRs6vLKCDSP9AnQOn35wYK2XxDZQMY8HErb3WWcncd9H1THVNW5I3clhMLaHKHp5ueXQ=w544-h544-l90-rj)](https://music.youtube.com/watch?v=q8fSRJUG3Bo&si=ND69GtXL0Gk5urrX)-->
 
@@ -54,9 +52,7 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9elmaz9&show_icons=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=9elmaz9&show_icons=true&theme=radical)
 
 ***
 <picture>
