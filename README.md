@@ -2,10 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">| fun | serious | curious |</h3>
 
-<!-- GitHub Profile Views -->
-<p align="center">
+<!-- GitHub Profile Views aligned to the right -->
+<div style="text-align: right;">
   <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
-</p>
+</div>
 
 <!-- Dino Image -->
 <p align="center">
@@ -21,13 +21,15 @@
   <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Pixel Art" width="300">
 </p>
 
-<!-- Button Links for Website and Dad Jokes with extra space between them -->
+<!-- Separate Links for Website and Dad Jokes -->
 <p align="center">
   <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-right: 20px;">Check out Dad Jokes!</button>
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 10px;">Check out Dad Jokes!</button>
   </a>
+</p>
+<p align="center">
   <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer; margin-left: 20px;">Visit My Website</button>
+    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
   </a>
 </p>
 
@@ -53,7 +55,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
 </p>
-
 
 
 
