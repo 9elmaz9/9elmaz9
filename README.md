@@ -12,7 +12,23 @@
 <!-- Active YouTube music -->
 [![Music from YouTube](https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj)](https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut)](https://github.com/9elmaz9/github-readme-stats) <table>
+  <tr>
+    <td>
+      <!-- Active YouTube music -->
+      <a href="https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu">
+        <img src="https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj" alt="Music from YouTube" width="300">
+      </a>
+    </td>
+    <td>
+      <!-- Top Langs -->
+      <a href="https://github.com/9elmaz9/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
