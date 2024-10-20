@@ -22,7 +22,7 @@
 <!-- Separate Links for Website and Dad Jokes -->
 <p align="center">
   <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 10px;">Check out Dad Jokes!</button>
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 10px;">CLICK HERE! [you'll like it]</button>
   </a>
 </p>
 <p align="center">
