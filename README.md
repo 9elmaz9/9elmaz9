@@ -36,8 +36,8 @@
   <tr>
     <td>
       <!-- Active YouTube music -->
-      <a href="https://music.youtube.com/watch?v=v-9kvy6mOrs&si=ma_OrxmjUzPzTJIu" target="_blank">
-        <img src="https://lh3.googleusercontent.com/JwDI0sd0E3Ds-69Z_jOIHm4PHBstWIMwlFQoZ9B7r31NH5_eZcP402gkauVySIx8Zpy3jYXUBbp8gKQ5=w544-h544-l90-rj" alt="Music from YouTube" width="300">
+      <a href="https://music.youtube.com/watch?v=N_cCDuHc8Q0&si=8Ickc8slgtabCQ6q">
+        <img src="https://lh3.googleusercontent.com/-JuvFv7v2iDExgXoeNKkECFwLOier9YPJoE2m2-Okh3V1ZRar_cmkjH6vqjmjguE3Bq6w5ighJfMUvfeZQ=w544-h544-l90-rj">
       </a>
     </td>
     <td>
