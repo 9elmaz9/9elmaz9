@@ -9,10 +9,9 @@
 </h1>
 
 
-
 <!-- #30NitesOfCode Section -->
 <h2 align="center">#30NitesOfCode</h2>
-<p align="center">
+<p align="center">   
   <a href="https://www.codedex.io/@mazik/30-nites-of-code" target="_blank">Check out my progress!</a>
 </p>
 <p align="center">
