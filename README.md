@@ -8,6 +8,11 @@
   </span>
 </h1>
 
+<p align="center">
+  <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
+  </a>
+</p>
 
 <!-- #30NitesOfCode Section -->
 <h2 align="center">#30NitesOfCode</h2>
@@ -24,11 +29,7 @@
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 10px;">CLICK HERE! [you'll like it]</button>
   </a>
 </p>
-<p align="center">
-  <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
-  </a>
-</p>
+
 
 <!-- Music and GitHub Stats side by side -->
 <table align="center">
