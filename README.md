@@ -33,9 +33,8 @@
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" alt="Evolved Happy Duck" width="200">
 </p>
 <p align="center">
-  🎉 On 18/11/2024, I
-
-
+  🎉 On 18/11/2024, I officially completed the #30NitesOfCode challenge! But this is not the end—it's just the beginning. 🚀 Stay tuned for even more projects and progress ahead! 💻✨
+</p>
 
 
 
