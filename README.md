@@ -14,6 +14,15 @@
   </a>
 </p>
 
+<!-- #30NitesOfCode Section 
+<h2 align="center">#30NitesOfCode</h2>
+<p align="center">   
+  <a href="https://www.codedex.io/@mazik/30-nites-of-code" target="_blank">Check out my progress!</a>
+</p>
+<p align="center">
+  <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Pixel Art" width="300">
+</p>-->
+
 <!-- #30NitesOfCode Section -->
 <h2 align="center">#30NitesOfCode</h2>
 <p align="center">   
@@ -22,6 +31,15 @@
 <p align="center">
   <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Pixel Art" width="300">
 </p>
+<p align="center">
+  🎉 On 18/11/2024, I officially completed the #30NitesOfCode challenge! But this is not the end—it's just the beginning. 🚀 Stay tuned for even more projects and progress ahead! 💻✨
+</p>
+
+
+
+
+
+
 
 <!-- Separate Links for Website and Dad Jokes -->
 <p align="center">
