@@ -11,7 +11,9 @@
 <p align="center">
   <em>Every day is a small life, a chance to learn and grow.<br>
   Our choices today pave the way for the future we dream of tomorrow.</em><br>
-  <strong>Risk-taker? Yes. Dream-chaser? Absolutely. Problem-solver? Always.</strong> 🚀  
+ <strong>Bold enough to start. Brave enough to continue. Wise enough to learn. 🚀</strong>
+<!--
+  <strong>Risk-taker? Yes. Dream-chaser? Absolutely. Problem-solver? Always.</strong> 🚀  -->
 </p>
 
 <p align="center">
