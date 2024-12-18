@@ -9,6 +9,12 @@
 </h1>
 
 <p align="center">
+  <em>Every day is a small life, a chance to learn and grow.<br>
+  Our choices today pave the way for the future we dream of tomorrow.</em><br>
+  <strong>Risk-taker? Yes. Dream-chaser? Absolutely. Problem-solver? Always.</strong> 🚀  
+</p>
+
+<p align="center">
   <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
     <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">Visit My Website</button>
   </a>
