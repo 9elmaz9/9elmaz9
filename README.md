@@ -13,7 +13,16 @@
   Our choices today pave the way for the future we dream of tomorrow.</em><br>
  <strong>Bold enough to start. Brave enough to continue. Wise enough to learn. 🚀</strong>
 <!--
-  <strong>Risk-taker? Yes. Dream-chaser? Absolutely. Problem-solver? Always.</strong> 🚀  -->
+  <strong>Risk-taker? Yes. Dream-chaser? Absolutely. Problem-solver? Always.</strong> 🚀 
+ <strong>Challenge-seeker? Always. Path-creator? Naturally. Future-builder? Every day.</strong> 🚀
+<strong>Explorer of possibilities. Builder of solutions. Believer in progress. 🚀</strong>
+<strong>Breaking limits. Chasing dreams. Building tomorrow. 🚀</strong>
+<strong>Bold enough to start. Brave enough to continue. Wise enough to learn. 🚀</strong>
+<strong>Learning. Growing. Succeeding—one step at a time. 🚀</strong>
+
+
+
+-->
 </p>
 
 <p align="center">
