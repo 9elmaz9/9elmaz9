@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">Elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">| fun | serious | curious |</h3>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA5c3Y3MGliM2M4MGhoZHVqdWpyMTBqemRkOW5iNnh3eno5cWF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zvaYEppwF56XPneh8/giphy.webp" alt="Funny GIF">
+
 
  <!-- GitHub Profile Views aligned to the right -->
   <span style="float: right;">
