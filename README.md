@@ -4,10 +4,7 @@
 
  <!-- GitHub Profile Views aligned to the right -->
   <span style="float: right;">
-
-
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
-         
   </span>
 </h1>
 
