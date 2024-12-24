@@ -7,7 +7,7 @@
 
 
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
-             <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcyZ3dnOWoybDQ0YjYwMW41eGEyYzA5aTRyOWI5MDl5c3ptYTJ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX7z5nJcyZon7QbJC2/giphy.webp" alt="Funny GIF" width="25">
+         
   </span>
 </h1>
 
