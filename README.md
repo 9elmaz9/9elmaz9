@@ -20,11 +20,8 @@
 <strong>Breaking limits. Chasing dreams. Building tomorrow. 🚀</strong>
 <strong>Bold enough to start. Brave enough to continue. Wise enough to learn. 🚀</strong>
 <strong>Learning. Growing. Succeeding—one step at a time. 🚀</strong>
-
-
-
 -->
-</p>
+
 
 <p align="center">
   <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
