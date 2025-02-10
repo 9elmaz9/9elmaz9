@@ -8,7 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
   </span>
 </h1>
-\
 <p align="center">
   <em>Every day is a small life, a chance to learn and grow.<br>
   Our choices today pave the way for the future we dream of tomorrow.</em><br>
