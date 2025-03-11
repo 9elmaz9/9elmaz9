@@ -3,7 +3,7 @@
 <h3 align="center">| fun | serious | curious |</h3>
 
 🚨 **Note:** Currently, my **LinkedIn profile is temporarily unavailable** due to an ongoing verification process.  
-I'm actively working on restoring access. If you need to reach out, feel free to contact me via **GitHub or email**.  
+I'm actively working on restoring access. If you need to reach out, you can visit **my website** or contact me via GitHub.
 
 <p align="center">
   <a href="https://9elmaz9.github.io/elmaz_dzhelianchyk/" target="_blank">
