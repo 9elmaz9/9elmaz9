@@ -109,6 +109,15 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 <p align="right">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
+```java
+public class Elmaz extends Person {
+    String mindset = "Optimistic · Open-minded · Proactive";
+
+    void learn() {}
+    void adapt() {}
+    void grow() {}
+}
+
 
 
 
