@@ -1,5 +1,13 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">Elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">🧠 I’m like OOP — Object-Oriented Person</h2>
+
+<p align="center">
+<strong>Properties:</strong> Optimistic · Open-minded · Proactive  
+<br/>
+<strong>Methods:</strong> learn() · adapt() · grow()
+</p>
+
 <h3 align="center">| fun | serious | curious |</h3>
 
 <!-- 🚨 **Note:** Currently, my **LinkedIn profile is temporarily unavailable** due to an ongoing verification process.  
