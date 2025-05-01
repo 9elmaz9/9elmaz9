@@ -100,10 +100,10 @@ I'm actively working on restoring access. If you need to reach out, you can visi
   </tr>
 </table>
 
-<!-- GitHub Streak Stats 
+GitHub Streak Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
-</p> -->
+</p> 
 
  Dino Image 
 <p align="right">
