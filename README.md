@@ -105,7 +105,7 @@ GitHub Streak Stats
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
 </p> 
 
- Dino Image 
+ <!--Dino Image -->
 <p align="right">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
