@@ -109,7 +109,7 @@ GitHub Streak Stats
 <p align="right">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino GIF">
 </p>
-
+<!--
 ```
 java
 public class Elmaz extends Person {
@@ -121,6 +121,7 @@ public class Elmaz extends Person {
 }
 
 ```
+-->
 
 
 
