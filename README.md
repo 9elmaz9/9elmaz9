@@ -74,12 +74,12 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 
 
 
-<!-- Separate Links for Website and Dad Jokes -->
+<!-- Separate Links for Website and Dad Jokes 
 <p align="center">
   <a href="https://9elmaz9.github.io/DAD-JOKES/" target="_blank">
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 10px;">CLICK HERE! DAD JOKES [you'll like it]</button>
   </a>
-</p>
+</p>-->
 
 
 <!-- Music and GitHub Stats side by side -->
