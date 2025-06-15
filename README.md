@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/elmaz-dzhelianchyk//" target="_blank">Elmaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" style="height:32; width:auto;"/></h1>
 <h2 align="center">🧠 I’m like OOP — Object-Oriented Person</h2>
-</h1>
+</h1>>
 
 <!-- gomer 
 https://camo.githubusercontent.com/c62d65af64fd31cf5aab3a2105c3a02b31cfc5cbfecbf7986250f0be49059f05/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636974426c397950776e554f732f67697068792e676966 -->
