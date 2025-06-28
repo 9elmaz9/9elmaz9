@@ -61,7 +61,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 <!-- #30NitesOfCode Section -->
 <h2 align="center">#30NitesOfCode</h2>
 <p align="center">   
-  <a href="https://www.codedex.io/@mazik/30-nites-of-code" target="_blank">Check out my progress!</a>
+  <a href="https://www.codedex.io/@mazik/30-nites-of-code" target="_blank">Check out!</a> <!--my progess-->
 </p>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Baby Happy Duck" width="200">
