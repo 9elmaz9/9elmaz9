@@ -104,7 +104,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 </table>
 
 <!-- GitHub Streak Stats -->
-<p align="right">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=9elmaz9" alt="GitHub Streak Stats">
 </p> 
 
