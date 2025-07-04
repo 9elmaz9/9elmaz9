@@ -151,6 +151,11 @@ public class Elmaz extends Person {
 
 
 
+<h3 align="center">🎮 Loading Elmaz.exe...</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="200" alt="Loading bar">
+</p>
+<p align="center">Ready to debug reality 💥</p>
 
 
 
