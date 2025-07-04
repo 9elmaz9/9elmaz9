@@ -26,7 +26,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 <p align="center">
   <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="200" alt="Loading bar">
 </p>
-<p align="center">Ready to debug reality 💥</p>
+<!-- <p align="center">Ready to debug reality 💥</p> -->
 
 
  <!-- GitHub Profile Views aligned to the right -->
