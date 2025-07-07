@@ -35,13 +35,13 @@ I'm actively working on restoring access. If you need to reach out, you can visi
   <span style="float: right;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcyZ3dnOWoybDQ0YjYwMW41eGEyYzA5aTRyOWI5MDl5c3ptYTJ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX7z5nJcyZon7QbJC2/giphy.webp" alt="Funny GIF" width="25">
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
-
+  </span>
+</h1>
 
 <p align="center">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
-  </span>
-</h1>
+
 
 <p align="center">
   <em>Every day is a small life, a chance to learn and grow.<br>
