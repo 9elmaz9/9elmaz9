@@ -39,7 +39,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 </h1>
 
 <p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
+<p[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
 
 
 <p align="center">
