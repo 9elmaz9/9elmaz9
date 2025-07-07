@@ -27,7 +27,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
  <!-- <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="200" alt="Loading bar"> -->
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
 <!-- <p align="center">Ready to debug reality 💥</p> -->
 
 
@@ -37,6 +37,12 @@ I'm actively working on restoring access. If you need to reach out, you can visi
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
   </span>
 </h1>
+
+<p align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
+
+
+
 <p align="center">
   <em>Every day is a small life, a chance to learn and grow.<br>
   Our choices today pave the way for the future we dream of tomorrow.</em><br>
