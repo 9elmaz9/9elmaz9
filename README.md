@@ -22,7 +22,7 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 </p>
 
 
-<!-- <h3 align="center">🎮 Loading Elmaz.exe...</h3> -->
+<!-- <h3 align="center">🎮 Loading Elmaz.exe...</h3> 
 <p align="center">
  <!-- <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="200" alt="Loading bar"> -->
 
