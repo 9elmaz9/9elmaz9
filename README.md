@@ -42,7 +42,6 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9elmaz9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
 
 
-
 <p align="center">
   <em>Every day is a small life, a chance to learn and grow.<br>
   Our choices today pave the way for the future we dream of tomorrow.</em><br>
