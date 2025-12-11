@@ -106,12 +106,12 @@ I'm actively working on restoring access. If you need to reach out, you can visi
       </a>
     </td>
     <td>
-      <!-- Top Langs -->
+      <!-- Top Langs 
       <a href="https://github.com/9elmaz9/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9elmaz9&layout=donut" alt="Top Languages">
       </a>
-    </td>
-  </tr>
+    </td>  -->
+  </tr>x
 </table>
 
 <!-- GitHub Streak Stats 
