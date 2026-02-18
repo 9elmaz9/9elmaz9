@@ -134,6 +134,13 @@ public class Elmaz extends Person {
     void grow() {}
 }
 
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="[https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="Baby Happy Duck" width="200](https://camo.githubusercontent.com/3fe5567df055124fe82d6485baa22f0b5e45dd78ce20095b1424eaa7bcec7e7d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3136333534302c3130303a306630663066266865696768743d3130302673656374696f6e3d666f6f746572)">
+ 
+</p>
+
+
 ```
 -->
 
