@@ -23,11 +23,14 @@ I'm actively working on restoring access. If you need to reach out, you can visi
 
  <!-- GitHub Profile Views aligned to the right -->
   <span style="float: right;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcyZ3dnOWoybDQ0YjYwMW41eGEyYzA5aTRyOWI5MDl5c3ptYTJ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX7z5nJcyZon7QbJC2/giphy.webp" alt="Funny GIF" width="25">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAzNWN1NzB0bGV6cWxybjV3ZXJ3Yjg1aml5a3U1ZmNzanU1emR3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cm8Pg2jxtdc6vAQxLB/giphy.webp" alt="Funny GIF" width="25">
     <img src="https://komarev.com/ghpvc/?username=9elmaz9&color=blue" alt="Profile Views">
   </span>
 </h1>
 
+
+<!-- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcyZ3dnOWoybDQ0YjYwMW41eGEyYzA5aTRyOWI5MDl5c3ptYTJ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX7z5nJcyZon7QbJC2/giphy.webp
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAzNWN1NzB0bGV6cWxybjV3ZXJ3Yjg1aml5a3U1ZmNzanU1emR3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cm8Pg2jxtdc6vAQxLB/giphy.gif-->
 
 <!-- <h3 align="center">🎮 Loading Elmaz.exe...</h3> -->
 <p align="center">
